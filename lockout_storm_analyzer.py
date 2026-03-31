@@ -2,7 +2,7 @@
 """
 lockout_storm_analyzer.py
 Account Lockout Storm Analyzer — Live Windows Event Log Monitor
-Author: NetworkGod
+Author: Kevin Sveinsson
 Origin: Desert Diamond Casinos IR — stale saved credentials on iPhones/workstations
         hammering ~5 accounts simultaneously. Identified via Event ID 4740 + Cisco ISE.
 
