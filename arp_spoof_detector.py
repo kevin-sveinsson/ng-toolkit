@@ -2,8 +2,8 @@
 """
 arp_spoof_detector.py
 ARP Spoofing & Poisoning Detector
-Author: NetworkGod
-Origin: Built by someone who ran these attacks — now building the detection.
+Author: Kevin Sveinsson
+Origin: Built to detect ARP spoofing and poisoning attacks in enterprise network environments.
 
 Requirements:
     pip install scapy colorama
