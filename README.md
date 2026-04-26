@@ -11,6 +11,7 @@ Each tool was built to solve an actual problem encountered in production — not
 | virustotal-hash-enrichment | Automated file hash IOC triage via VirusTotal API | T1204 |
 | abuseipdb-ip-reputation | Automated IP reputation analysis via AbuseIPDB API | T1071 |
 | phishing-header-analyzer | Email header analysis with auto IP reputation lookup | T1598 |
+| phishing-email-triage | End-to-end .eml triage via eml_analyzer + Claude (Anthropic API) | T1566 |
 | arp-spoof-detector | Network-level ARP spoofing and poisoning detection | T1557 |
 | lockout-storm-analyzer | Account lockout storm detection and root cause analysis | T1110 |
 
