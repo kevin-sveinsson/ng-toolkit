@@ -14,6 +14,7 @@ Each tool was built to solve an actual problem encountered in production — not
 | phishing-email-triage | End-to-end .eml triage via eml_analyzer + Claude (Anthropic API) | T1566 |
 | arp-spoof-detector | Network-level ARP spoofing and poisoning detection | T1557 |
 | lockout-storm-analyzer | Account lockout storm detection and root cause analysis | T1110 |
+| download-detector | Proxy/web-filter log triage for unauthorized software downloads with VT + AbuseIPDB enrichment | T1204.002 / T1566 |
 
 ## Background
 
